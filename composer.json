@@ -17,7 +17,7 @@
 	"type": "library",
 	"autoload": {
         "psr-0": {
-            "Primal\\Database": "lib\/",
+            "Primal\\Database": "lib\/"
         }
     },
 	"extra": {
